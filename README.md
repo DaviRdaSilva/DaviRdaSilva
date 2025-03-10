@@ -18,6 +18,7 @@ Principais stacks já desenvolvidas:
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
 
 ## Meu Status atual:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviRdaSilva&hide=prs,issues,contribs&show_icons=true&theme=neon)](https://github.com/DaviRdaSilva/github-readme-stats)
