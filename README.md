@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=bem+vindo(a)+ao+meu+perfil!+%3C3)](https://git.io/typing-svg)
 
-### atualmente estou cursando Sistemas de Informação, na São Paulo Tech School! 
+[![trophy](https://github-profile-trophy.vercel.app/?username=DaviRdaSilva)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Atualmente estou cursando Sistemas de Informação, na São Paulo Tech School! 
 
 Principais stacks já desenvolvidas:
 
