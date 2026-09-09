@@ -26,7 +26,6 @@ Principais stacks já desenvolvidas:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviRdaSilva&hide=prs,issues,contribs&show_icons=true&theme=neon)](https://github.com/DaviRdaSilva/github-readme-stats)
 
 ## Sobre mim
-- 🔭 Atualmente estou trabalhando como estágiario na area de infraestrutura de TI na São Paulo Tech School
-- 🌱 Estou focando meu desenvolvimento em Sistemas operacionais e arquitetura de Software
-- 💬 Me pergunte sobre Arquitetura/Sustentação!
-- 📫 Entre em contato comigo através do email: davi.rsilva@sptech.school
+- 🔭 Atualmente estou trabalhando como Analista Junior de Planejamento Operacional na BMP
+- 🌱 Estou focando meu desenvolvimento Mapeamento e Automação de Processos
+- 📫 Entre em contato comigo através do email: davirodrigues0506@gmail.com
